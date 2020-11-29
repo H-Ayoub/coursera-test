@@ -58,6 +58,12 @@ body {
 
 #chicken-menu, #beef-menu, #sushi-menu {
 	background: #15027d;
-	margin: 0 auto 20px;
-
+}
+ /* padding: 8px 16px 32px 16px;
+	margin: 0 5px 20px;
+}
+.menu-tile {
+  margin: 36px;
+}
+*/
 
